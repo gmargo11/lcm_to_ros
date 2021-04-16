@@ -1,0 +1,2 @@
+set(lcm_to_ros_MESSAGE_FILES "msg/body_pose_type.msg;msg/example_type.msg;msg/heightmap_image_lcmt.msg;msg/leg_control_data_lcmt.msg;msg/mpc_raibert_parameters_lcmt.msg;msg/pd_tau_targets_lcmt.msg;msg/quadruped_menu_data_lcmt.msg;msg/quadruped_parameters_lcmt.msg;msg/rl_action_lcmt.msg;msg/rl_obs_t.msg;msg/simple_channel.msg;msg/simulator_lcmt.msg;msg/spi_data_lcmt.msg;msg/state_estimator_lcmt.msg;msg/vicon_pose_lcmt.msg;msg/wbc_params_lcmt.msg;msg/wbc_test_data_lcmt.msg;msg/wbc_test_data_t.msg")
+set(lcm_to_ros_SERVICE_FILES "")
